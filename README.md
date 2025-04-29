@@ -9,7 +9,8 @@ FORMA DE ENTREGA:
 
 - Em ambos os casos é necessária a Inclusão instruções claras sobre como configurar e executar os exercícios localmente.
 
-🚀 Como executar os exercícios
+**🚀 Como executar os exercícios**
+
 Instale o Visual Studio Code
 Baixe e instale o VS Code: https://code.visualstudio.com/
 
