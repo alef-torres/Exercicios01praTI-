@@ -21,6 +21,6 @@ Instale a extensão Code Runner
 No VS Code, vá até a aba de extensões e instale Code Runner. Ela adiciona um botão ▶ no canto superior direito para facilitar a execução dos códigos.
 
 Entrada de dados via terminal
-Para exercícios que exigem entrada do usuário, instale a biblioteca prompt-sync com o comando:
+Para exercícios que exigem entrada do usuário, instale a biblioteca prompt-sync com o comando (caso dê algum problema):
 
 npm install prompt-sync
