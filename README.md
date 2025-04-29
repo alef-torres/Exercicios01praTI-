@@ -23,4 +23,6 @@ No VS Code, vá até a aba de extensões e instale Code Runner. Ela adiciona um 
 Entrada de dados via terminal
 Para exercícios que exigem entrada do usuário, instale a biblioteca prompt-sync com o comando (caso dê algum problema):
 
-npm install prompt-sync
+```bash
+    npm install prompt-sync
+    ```
