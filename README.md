@@ -1,6 +1,6 @@
 # Exercicios01praTI+
 Lista de Exercícios 1 - Estudando as estruturas básicas
-Exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição.
+Exercícios que contemplam grande parte do conteúdo abordado no módulo 01.
 
 FORMA DE ENTREGA:
 
